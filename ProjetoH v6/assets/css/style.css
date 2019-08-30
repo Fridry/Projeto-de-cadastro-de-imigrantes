@@ -1,0 +1,14 @@
+.avatar {
+    vertical-align: middle;
+    width: 30px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.nav-item {
+    font-size: 18px;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
